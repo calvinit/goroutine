@@ -1,3 +1,3 @@
-module github.com/kortschak/goroutine
+module github.com/calvinit/goroutine
 
 go 1.14
